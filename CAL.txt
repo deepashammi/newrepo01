@@ -6,7 +6,7 @@ Already linked the test cases with the defect but while execution , the executor
 Defect 3: CODEALIKE-2923 test cases linked with an E2E CODEALIKE-3267
 
 
-CODEALIKE-2872 -- Reviewed
+CODEALIKE-2872 -- Reviewedmnewdbweb ,n
 CODEALIKE-2874-- comment says ignore this defect
 CODEALIKE-3045-- blocked E2E due to defect.(CODEALIKE-2874)
 
